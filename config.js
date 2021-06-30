@@ -10,10 +10,10 @@ const CONFIG = {
     btnYes: 'Vẫn cứ là thích toi <33',
     btnNo: 'Không coa thich :3',
     question:'Nếu được đặt biệt danh cho bà thì thui xin đặt là Google nhe <3',
-    btnReply: 'Vì bà có tất cả những thứ tui tìm kiếm <3',
+    btnReply: 'Vì bà có tất cả những thứ mà tui đang tìm kiếm <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Oiii mừng quá đi 🥰 zui qué trùi uii 😘😘',
     messDesc: 'Tối nay mình cùng trò chuyện tiếp nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Okiiiii lun nhoa <3',
     messLink: 'https://www.instagram.com/ptiendat15/'
 }
