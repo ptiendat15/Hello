@@ -15,5 +15,5 @@ const CONFIG = {
     mess: 'Oiii mừng quá đi 🥰 zui qué trùi uii 😘😘',
     messDesc: 'Tối nay mình cùng trò chuyện tiếp nhé công chúa.',
     btnAccept: 'Okiiiii lun nhoa <3',
-    messLink: 'https://www.instagram.com/ptiendat15/'
+    messLink: 'https://www.facebook.com/bolacmen/'
 }
